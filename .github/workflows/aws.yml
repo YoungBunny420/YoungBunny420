@@ -1,4 +1,4 @@
-name: (Deploy to Amazon ECS)
+name: ((.github/workflows/aws.yml))
 
 on:
   push:
